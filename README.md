@@ -17,28 +17,43 @@ ________________________________________________________________________________
 - Export Formats -- JSON, CSV
 - Language -- Python
 ________________________________________________________________________________________________________________________________________________________________________
-#How to Run
-1. Clone the repository:
-   '''
-	git clone https://github.com/<your-username>/CardVision.git
-	cd CardVision
-	'''
+# How to Run
 
-3. Create and activate a virtual environment:
-   
-	python -m venv venv
-	venv\Scripts\activate      # Windows
+ 1. Clone the repository:
 
-4. Install dependencies:
-	
-	pip install -r requirements.txt
+```bash
+git clone https://github.com/CardVision.git
+cd CardVision
+```
 
-5. Run the Streamlit app:
-   
-	cd src
-	streamlit run main.py
+ 2. Create and activate a virtual environment:
 
-6. Upload your PDF statements and view the extracted data in the browser.
+**For Windows:**
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+**For macOS/Linux:**
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+
+ 3. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+ 4. Run the Streamlit app:
+
+```bash
+cd src
+streamlit run main.py
+```
+
+ 5. Upload your PDF statements and view the extracted data in the browser.
 ________________________________________________________________________________________________________________________________________________________________________
 #Example Output:
 - Bank: HDFC Bank
@@ -50,6 +65,7 @@ ________________________________________________________________________________
 #Added screnshot for look over 
 - Home page
 - Result
+
 
 
 
