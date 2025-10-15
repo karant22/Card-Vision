@@ -66,13 +66,16 @@ ________________________________________________________________________________
 - Due Date: 15 Sep 2025
 ________________________________________________________________________________________________________________________________________________________________________
 Screenshots:
+
 Home Page-
 ![HomePage](https://github.com/user-attachments/assets/1e630d41-fa12-4333-947d-3b2797d0c846)
 Clean and intuitive upload interface
 
 Results Dashboard
+
 ![Result](https://github.com/user-attachments/assets/ac79aedb-8951-4a89-8194-bff580c86896)
 Comprehensive view of extracted statement data
+
 
 
 
