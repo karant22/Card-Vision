@@ -3,7 +3,6 @@ CardVision is a Python-based tool that reads and analyzes credit card statements
 It extracts key details such as billing period, total due, due date, and sample transactions from multiple banks and presents them through a simple Streamlit interface.
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B.svg)](https://streamlit.io)
 ________________________________________________________________________________________________________________________________________________________________________
 #Features:
@@ -74,6 +73,7 @@ Clean and intuitive upload interface
 Results Dashboard
 ![Result](https://github.com/user-attachments/assets/ac79aedb-8951-4a89-8194-bff580c86896)
 Comprehensive view of extracted statement data
+
 
 
 
