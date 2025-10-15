@@ -19,25 +19,26 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________________________
 #How to Run
 1. Clone the repository:
-   
+   '''
 	git clone https://github.com/<your-username>/CardVision.git
 	cd CardVision
+	'''
 
-2. Create and activate a virtual environment:
+3. Create and activate a virtual environment:
    
 	python -m venv venv
 	venv\Scripts\activate      # Windows
 
-3. Install dependencies:
+4. Install dependencies:
 	
 	pip install -r requirements.txt
 
-4. Run the Streamlit app:
+5. Run the Streamlit app:
    
 	cd src
 	streamlit run main.py
 
-5. Upload your PDF statements and view the extracted data in the browser.
+6. Upload your PDF statements and view the extracted data in the browser.
 ________________________________________________________________________________________________________________________________________________________________________
 #Example Output:
 - Bank: HDFC Bank
@@ -49,6 +50,7 @@ ________________________________________________________________________________
 #Added screnshot for look over 
 - Home page
 - Result
+
 
 
 
