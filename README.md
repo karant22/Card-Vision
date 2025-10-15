@@ -1,6 +1,10 @@
-CardVision
+
 CardVision is a Python-based tool that reads and analyzes credit card statements in PDF format.
 It extracts key details such as billing period, total due, due date, and sample transactions from multiple banks and presents them through a simple Streamlit interface.
+
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B.svg)](https://streamlit.io)
 ________________________________________________________________________________________________________________________________________________________________________
 #Features:
 - Works with statements from Axis, HDFC, ICICI, SBI, and IDFC First Bank.
@@ -62,9 +66,15 @@ ________________________________________________________________________________
 - Total Due: ₹12,450.00
 - Due Date: 15 Sep 2025
 ________________________________________________________________________________________________________________________________________________________________________
-#Added screnshot for look over 
-- Home page
-- Result
+Screenshots:
+Home Page-
+![HomePage](https://github.com/user-attachments/assets/1e630d41-fa12-4333-947d-3b2797d0c846)
+Clean and intuitive upload interface
+
+Results Dashboard
+![Result](https://github.com/user-attachments/assets/ac79aedb-8951-4a89-8194-bff580c86896)
+Comprehensive view of extracted statement data
+
 
 
 
